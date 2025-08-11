@@ -1,7 +1,6 @@
 class TemplateConfig // This should match the file name
 {
-  // static const string TC_CONFIG_VERSION = "1.0";
-  // static const string TC_CONFIG_NAME = "TemplateConfig.c"; // This file name.
+
 	private static string PROFILE = "$profile:Basic";
 	private static string CONFIG = PROFILE + "/config.json";
 
